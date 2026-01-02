@@ -64,3 +64,4 @@
 
         x = self.fc2(x)
         return x
+
